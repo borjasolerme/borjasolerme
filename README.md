@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there, I'm [Borja Soler](https://twitter.com/borjasolerme) 🍕
+
+I'm a /Product maker/ who codes, desgins & does product management 💻
+
+- ♻️ I’m currently working at Greencast in Amsterdam.
+- 🌱 Learning to code each day better and developing some cool stuff.  
+- 📫 How to reach me: borjasolerreyes@gmail.com
+
 
 <!--
 **borjasolerme/borjasolerme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
