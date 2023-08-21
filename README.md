@@ -2,7 +2,7 @@
 
 I'm a /Product maker/ who codes, desgins & does product management 💻
 
-- ♻️ I’m currently working at Factorial remotely in Italy.
+- ♻️ I’m currently working remotely from Italy.
 - 🌱 Learning to code each day better and developing some cool stuff.  
 - 📫 How to reach me: borjasolerreyes@gmail.com
 
