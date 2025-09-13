@@ -1,10 +1,8 @@
-## Hi there, I'm [Borja Soler](https://twitter.com/borjasolerme) 🍕
+## Hi there, I'm [Borja Soler](https://twitter.com/borjasolerr) 🍕
 
-I'm a /Product maker/ who codes, desgins & does product management 💻
-
-- ♻️ I’m currently working remotely from Italy.
-- 🌱 Learning to code each day better and developing some cool stuff.  
-- 📫 How to reach me: borjasolerreyes@gmail.com
+- Cofounder & CEO @ [Filmia](https://www.videotok.app)
+- Researching how AI can be used to create better Products & ART [Essays](https://exploringaiandart.substack.com)
+- Former product engineering & designer
 
 
 <!--
