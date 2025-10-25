@@ -1,9 +1,8 @@
 ## Hi there, I'm [Borja Soler](https://twitter.com/borjasolerr) 🍕
 
-- Cofounder & CEO @ [Filmia](https://www.videotok.app)
-- Researching how AI can be used to create better Products & ART [Essays](https://exploringaiandart.substack.com)
-- Former product engineering & designer
-
+- Cofounder & CEO @ [Filmia](https://www.filmia.ai)
+- Exploring AI [Essays](https://exploringainotes.substack.com/)
+- Product engineer & designer
 
 <!--
 **borjasolerme/borjasolerme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
