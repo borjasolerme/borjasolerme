@@ -1,6 +1,6 @@
 ## Hi there, I'm [Borja Soler](https://twitter.com/borjasolerr) 🍕
 
-- Cofounder & CEO @ [Filmia](https://www.filmia.ai)
+- Cofounder & CEO @ [The formula ai]([https://www.filmia.ai](https://www.theformulaai.com/))
 - Exploring AI [Essays](https://exploringainotes.substack.com/)
 - Product engineer & designer
 
