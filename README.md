@@ -22,3 +22,7 @@ I write about AI at [Exploring AI](https://exploringai.co/).
 ## Connect
 
 [Twitter](https://twitter.com/borjasolerr) · [Website](https://borjasoler.com) · [LinkedIn](https://www.linkedin.com/in/borjasolerreyes/)
+
+---
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=borjasolerme&theme=minimal)
