@@ -1,20 +1,24 @@
-## Hi there, I'm [Borja Soler](https://twitter.com/borjasolerr) 🍕
+# Borja Soler
 
-- Cofounder & CEO @ [The formula ai]([https://www.filmia.ai](https://www.theformulaai.com/))
-- Exploring AI [Essays](https://exploringainotes.substack.com/)
-- Product engineer & designer
+Building AI products at [The Formula AI](https://www.theformulaai.com/).
 
-<!--
-**borjasolerme/borjasolerme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product builder, developer & designer. From Ibiza, based in Milan. I like to ship things.
 
-Here are some ideas to get you started:
+## What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Videotok](https://www.theformulaai.com/)** — AI agents for ads creation
+- **[Getbeel](https://www.theformulaai.com/)** — AI invoice management
+- **Filmia & Editby** — In stealth
+
+## Previously built
+
+- **Dinoclass** — Gamified live classroom learning platform
+- **Virtux** — AI chatbots meets legal document platform
+
+## Writing
+
+I write about AI at [Exploring AI](https://exploringai.co/).
+
+## Connect
+
+[Twitter](https://twitter.com/borjasolerr) · [Website](https://borjasoler.com) · [LinkedIn](https://www.linkedin.com/in/borjasolerreyes/)
