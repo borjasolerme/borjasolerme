@@ -25,4 +25,4 @@ I write about AI at [Exploring AI](https://exploringai.co/).
 
 ---
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=borjasolerme&theme=minimal)
+![GitHub Contribution Graph](https://ghchart.rshah.org/borjasolerme)
