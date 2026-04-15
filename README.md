@@ -1,14 +1,13 @@
 # Borja Soler
 
-Building AI products at [The Formula AI](https://www.theformulaai.com/).
+Building AI products at [The Formula AI](https://theformulaai.com/).
 
 Product builder, developer & designer. From Ibiza, based in Milan. I like to ship things.
 
 ## What I'm building
 
-- **[Videotok](https://www.theformulaai.com/)** — AI agents for ads creation
-- **[Getbeel](https://www.theformulaai.com/)** — AI invoice management
-- **Filmia & Editby** — In stealth
+- **[Filmia](https://filmia.ai/)**
+- **[The Formula AI](https://theformulaai.com/)**
 
 ## Previously built
 
