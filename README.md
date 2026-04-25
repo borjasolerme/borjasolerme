@@ -1,8 +1,6 @@
 # Borja Soler
 
-Building AI products at [The Formula AI](https://theformulaai.com/).
-
-Product builder, developer & designer. From Ibiza, based in Milan. I like to ship things.
+Product engineer & designer. From Ibiza, based in Milan. I like to ship things.
 
 ## What I'm building
 
