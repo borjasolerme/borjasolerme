@@ -4,7 +4,6 @@ Product engineer & designer. From Ibiza, based in Milan. I like to ship things.
 
 ## What I'm building
 
-- **[Filmia](https://filmia.ai/)**
 - **[The Formula AI](https://theformulaai.com/)**
 
 ## Previously built
